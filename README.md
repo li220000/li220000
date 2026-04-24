@@ -9,7 +9,7 @@ This page documents my journey — from learning tools like Python and SQL to ap
 
 ## 📚 Projects
 
-Here are some of the [View Projects](https://github.com/yourname/data-analytics-portfolio) I’ve worked on:
+Here are some of the [Projects](https://github.com/li220000/data-analytics-portfolio) I’ve worked on:
 
 
 
