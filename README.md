@@ -32,7 +32,4 @@ Here are some of the [Projects](https://github.com/li220000/data-analytics-portf
 
 
 
-## 👋 Connect with Me
-
-* LinkedIn: https://www.linkedin.com/in/li-ouyang-938044313/
 
