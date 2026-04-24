@@ -25,5 +25,5 @@ Here are some of the projects I’ve worked on:
 
 ## 👋 Connect with Me
 
-* LinkedIn: (your link)
+* LinkedIn: https://www.linkedin.com/in/li-ouyang-938044313/
 
