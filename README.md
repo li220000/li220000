@@ -9,7 +9,8 @@ This page documents my journey — from learning tools like Python and SQL to ap
 
 ## 📚 Projects
 
-Here are some of the projects I’ve worked on:
+📊 Data Analytics Portfolio
+A collection of my data analysis projects, including time series forecasting, business analysis, and SQL data exploration.
 
 
 
