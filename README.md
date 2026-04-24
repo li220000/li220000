@@ -1,16 +1,29 @@
-## Hi there 👋
+## 🙋‍♀️ About Me
 
-<!--
-**li220000/li220000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Li.
+I’m currently learning data analysis and building projects to develop practical skills.
 
-Here are some ideas to get you started:
+This page documents my journey — from learning tools like Python and SQL to applying them in real-world data projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Projects
+
+Here are some of the projects I’ve worked on:
+
+---
+
+## 🛠️ Tools
+
+* Python
+* SQL
+* r 
+* Tableau
+* Excel
+
+---
+
+## 👋 Connect with Me
+
+* LinkedIn: (your link)
+
